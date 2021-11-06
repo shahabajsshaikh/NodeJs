@@ -1,6 +1,23 @@
 # NodeJs
 Nodejs_classes
 
+Install nodejs 
+
+```sh
+apt-get install -y nodejs 
+```
+
+Install npm
+
+```sh
+apt-get install -y npm
+```
+
+Install yarn
+
+```sh
+npm install -g yarn
+```
 
 ############################### Yarn Steps ############################### 
 
